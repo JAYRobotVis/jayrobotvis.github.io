@@ -2,98 +2,98 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jay-ye.github.io/event/example/</loc>
+    <loc>/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/event/</loc>
+    <loc>/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/publication-type/1/</loc>
+    <loc>/publication-type/1/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/authors/</loc>
+    <loc>/authors/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/publication/2023_cvpr_freenerf/</loc>
+    <loc>/publication/2023_cvpr_freenerf/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/author/jiawei-yang/</loc>
+    <loc>/author/jiawei-yang/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/author/marco-pavone/</loc>
+    <loc>/author/marco-pavone/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/tag/nerf/</loc>
+    <loc>/tag/nerf/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/publication/</loc>
+    <loc>/publication/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/author/yue-wang/</loc>
+    <loc>/author/yue-wang/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/contact/</loc>
+    <loc>/contact/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/people/</loc>
+    <loc>/people/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/tour/</loc>
+    <loc>/tour/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/post/20-12-02-icml-best-paper/</loc>
+    <loc>/post/20-12-02-icml-best-paper/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/post/20-12-01-wowchemy-prize/</loc>
+    <loc>/post/20-12-01-wowchemy-prize/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/admin/</loc>
+    <loc>/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/author/emily-jia/</loc>
+    <loc>/author/emily-jia/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/author/jiageng-mao/</loc>
+    <loc>/author/jiageng-mao/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/author/jonathan-zamora/</loc>
+    <loc>/author/jonathan-zamora/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/author/junjie-ye/</loc>
+    <loc>/author/junjie-ye/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
