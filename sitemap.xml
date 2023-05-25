@@ -2,98 +2,98 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jay-ye.github.io/gvl-lab/event/example/</loc>
+    <loc>https://jay-ye.github.io/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/gvl-lab/event/</loc>
+    <loc>https://jay-ye.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/gvl-lab/publication-type/1/</loc>
+    <loc>https://jay-ye.github.io/publication-type/1/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/gvl-lab/authors/</loc>
+    <loc>https://jay-ye.github.io/authors/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/gvl-lab/publication/2023_cvpr_freenerf/</loc>
+    <loc>https://jay-ye.github.io/publication/2023_cvpr_freenerf/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/gvl-lab/author/jiawei-yang/</loc>
+    <loc>https://jay-ye.github.io/author/jiawei-yang/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/gvl-lab/author/marco-pavone/</loc>
+    <loc>https://jay-ye.github.io/author/marco-pavone/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/gvl-lab/tag/nerf/</loc>
+    <loc>https://jay-ye.github.io/tag/nerf/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/gvl-lab/publication_types/</loc>
+    <loc>https://jay-ye.github.io/publication_types/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/gvl-lab/publication/</loc>
+    <loc>https://jay-ye.github.io/publication/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/gvl-lab/tags/</loc>
+    <loc>https://jay-ye.github.io/tags/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/gvl-lab/author/yue-wang/</loc>
+    <loc>https://jay-ye.github.io/author/yue-wang/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/gvl-lab/</loc>
+    <loc>https://jay-ye.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/gvl-lab/contact/</loc>
+    <loc>https://jay-ye.github.io/contact/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/gvl-lab/people/</loc>
+    <loc>https://jay-ye.github.io/people/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/gvl-lab/tour/</loc>
+    <loc>https://jay-ye.github.io/tour/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/gvl-lab/post/20-12-02-icml-best-paper/</loc>
+    <loc>https://jay-ye.github.io/post/20-12-02-icml-best-paper/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/gvl-lab/post/</loc>
+    <loc>https://jay-ye.github.io/post/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/gvl-lab/post/20-12-01-wowchemy-prize/</loc>
+    <loc>https://jay-ye.github.io/post/20-12-01-wowchemy-prize/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/gvl-lab/admin/</loc>
+    <loc>https://jay-ye.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/gvl-lab/categories/</loc>
+    <loc>https://jay-ye.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/gvl-lab/author/emily-jia/</loc>
+    <loc>https://jay-ye.github.io/author/emily-jia/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/gvl-lab/author/jiageng-mao/</loc>
+    <loc>https://jay-ye.github.io/author/jiageng-mao/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/gvl-lab/author/jonathan-zamora/</loc>
+    <loc>https://jay-ye.github.io/author/jonathan-zamora/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://jay-ye.github.io/gvl-lab/author/junjie-ye/</loc>
+    <loc>https://jay-ye.github.io/author/junjie-ye/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
